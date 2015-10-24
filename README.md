@@ -3,11 +3,13 @@ Theano-based implementation of Deep Semi-NMF.
 
 
   *A Deep Semi-NMF Model for Learning Hidden Representations*
+  
   *George Trigeorgis, Konstantinos Bousmalis, Stefanos Zafeiriou, Bjoern W. Schuller*
   Proceedings of The 31st International Conference on Machine Learning, pp. 1692–1700, 2014
   http://jmlr.org/proceedings/papers/v32/trigeorgis14.html
 
   *A deep matrix factorization method for learning attribute representations*
+  
   *George Trigeorgis, Konstantinos Bousmalis, Stefanos Zafeiriou, Bjoern W.Schuller*
   http://arxiv.org/abs/1509.03248
 
