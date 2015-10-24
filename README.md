@@ -19,6 +19,7 @@ For a quick practical example of Deep Semi-NMF please see [here] (Deep%20Semi-NM
 
 
 The MIT License
+---------------
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
